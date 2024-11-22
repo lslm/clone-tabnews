@@ -1,5 +1,5 @@
 function Home() {
-  return <div>Teste</div>
+  return <h1>Hello from Codespaces</h1>
 }
 
 export default Home;
